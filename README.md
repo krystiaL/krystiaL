@@ -10,12 +10,12 @@
   </div>  
   <img src="https://komarev.com/ghpvc/?username=krystiaL&style=flat&color=blue" alt=""/>
 <h1>
-  Hey there!
+  Hi, I'm Krystia Lewis!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div style="text-align: center;">
   <h3 style="color: orange;">
-    <b> I'm Krystia, a data scientist with a passion for machine learning and an alumni of Le Wagon Tokyo. </b>
+    <b> A data scientist with a passion for machine learning and an alumni of Le Wagon Tokyo. </b>
     <br/><br/>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJybnd2bzdqbXE4ZTI5ZnRwNHR4YWJyMGJtNG1yMHE3MnJqZnRtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jPBUNA7Um4y3jdJmfg/giphy.gif" width="400"/>
   </h3>
@@ -25,21 +25,32 @@ Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resur
   </p>
 </div>
   <h1>
-    Tech stack
+  :hammer_and_wrench: Languages and Tools 
   </h1>
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="50" height="50"/>&nbsp;
-  <img src="" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50"/>&nbsp;
-  <img src="" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
-  <img src="" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-    
-  </div>
+
+![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data-00cc99?style=flat&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-Data-00cc99?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-00cc99?style=flat&logo=sql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-00cc99?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-00cc99?style=flat&logo=seaborn&logoColor=white)
+![SKlearn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-3399ff?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Machine%20Learning-3399ff?style=flat&logo=xgboost&logoColor=white)
+![Hyperopt](https://img.shields.io/badge/Hyperopt-Hyperparameter%20optimization-3399ff?style=flat&logo=hyperopt&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-3399ff?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-3399ff?style=flat&logo=keras&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Deep%20Learning-3399ff?style=flat&logo=mediapipe&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Deep%20Learning-3399ff?style=flat&logo=hugging%20face&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-3bb300?style=flat&logo=docker&logoColor=white)
+![Fast API](https://img.shields.io/badge/Fast-API-3bb300?style=flat&logo=fastapi&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-Platform-3bb300?style=flat&logo=googlecloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-e62e00?style=flat&logo=streamlit&logoColor=white)
+  
 </div>
+
+
+  
 
 
 
