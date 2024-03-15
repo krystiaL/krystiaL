@@ -10,7 +10,7 @@
   </div>  
   <img src="https://komarev.com/ghpvc/?username=krystiaL&style=flat&color=blue" alt=""/>
 <h1>
-  Hi, I'm Krystia Lewis!
+  Hi, I'm Krystia!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div style="text-align: center;">
