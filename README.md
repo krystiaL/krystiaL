@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/krystia-lewis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="troopl.com/krystial">
+  <a href="https://troopl.com/krystial">
     <img src="https://img.shields.io/badge/Porfolio-violet?style=for-the-badge" alt="Troopl Badge"/>
   </a>
   </div>  
