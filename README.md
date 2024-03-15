@@ -26,7 +26,7 @@ Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resur
 </div>
 </div>
 
-## 🗂️ Projects :
+## 🗂️ Project/s :
 
 # [Emotify 🎧](https://github.com/Atsuto-LeWagon/Emotify)
 *Multimodal Emotion Recognition and Playlist Generation System*
