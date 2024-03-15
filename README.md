@@ -24,9 +24,21 @@
 Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resurgence in Tech's Battlefield"</b></i>, I discovered that cloud computing and artificial intelligence played pivotal roles in enhancing the turnaround and sustainability of technology companies. This insight motivated me to enroll in a <i><b>rigorous six-month part-time program in data science and AI at Le Wagon Tokyo</b></i> where I gained several skillsets in <i><b>data analytics, machine learning, deep learning, and MLOps</b></i>; I also gained a deeper understanding of the underlying advantages and fundamental principles linking these two transformative technologies.
   </p>
 </div>
-  <h1>
-  :hammer_and_wrench: Languages and Tools 
-  </h1>
+</div>
+
+## 🗂️ Projects :
+
+# [Emotify 🎧](https://github.com/Atsuto-LeWagon/Emotify)
+*Multimodal Emotion Recognition and Playlist Generation System*
+- Automated playlist generation from facial emotion.
+-  A comprehensive machine learning pipeline that incorporates:
+   1. Facial Expression Analysis System 
+        - A pipeline for detecting and interpreting emotional cues from facial movements. 
+   2. Music labeling Function 
+        - A pipeline that uses music metadata to label emotion scores and dominant emotion of each song in a music dataset.
+   3. External data integration (Spotify API) for playlist generation
+
+## :hammer_and_wrench: Languages and Tools :
 
 ![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter&logoColor=white)
@@ -44,14 +56,13 @@ Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resur
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Deep%20Learning-3399ff?style=flat&logo=hugging%20face&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-3bb300?style=flat&logo=docker&logoColor=white)
 ![Fast API](https://img.shields.io/badge/Fast-API-3bb300?style=flat&logo=fastapi&logoColor=white)
+![SpotifyAPI](https://img.shields.io/badge/Spotify-Web%20API-3bb300?style=flat&logo=spotify&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-Platform-3bb300?style=flat&logo=googlecloud&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-e62e00?style=flat&logo=streamlit&logoColor=white)
-  
-</div>
 
+## :fire: My Stats :
 
-  
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krystiaL&theme=dark&background=13263a)](https://git.io/streak-stats)
 
 
 
