@@ -65,7 +65,6 @@ Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resur
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krystiaL&theme=dark&background=13263a)](https://git.io/streak-stats)
 
 
-
 <!---
 krystiaL/krystiaL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
