@@ -32,7 +32,7 @@ Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resur
 *Multimodal Emotion Recognition and Playlist Generation System*
 - Automated playlist generation from facial emotion.
 -  A comprehensive machine learning pipeline that incorporates:
-   1. Facial Expression Analysis System 
+   1. Facial Expression Analysis 
         - A pipeline for detecting and interpreting emotional cues from facial movements. 
    2. Music labeling Function 
         - A pipeline that uses music metadata to label emotion scores and dominant emotion of each song in a music dataset.
