@@ -28,7 +28,7 @@ Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resur
 
 ## 🗂️ Project/s :
 
-# [Emotify 🎧](https://github.com/Atsuto-LeWagon/Emotify)
+# [Emotify 🎧](https://github.com/krystiaL/Emotify)
 *Multimodal Emotion Recognition and Playlist Generation System*
 - Automated playlist generation from facial emotion.
 -  A comprehensive machine learning pipeline that incorporates:
