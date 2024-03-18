@@ -15,7 +15,7 @@
 </h1>
 <div style="text-align: center;">
   <h3 style="color: orange;">
-    <b> A data scientist with a passion for machine learning and an alumni of Le Wagon Tokyo. </b>
+    <b> A data scientist with a passion for machine learning and an alumnus of Le Wagon Tokyo. </b>
     <br/><br/>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJybnd2bzdqbXE4ZTI5ZnRwNHR4YWJyMGJtNG1yMHE3MnJqZnRtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jPBUNA7Um4y3jdJmfg/giphy.gif" width="400"/>
   </h3>
