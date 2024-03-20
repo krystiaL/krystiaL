@@ -26,6 +26,7 @@ Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resur
 </div>
 </div>
 
+---
 ## 🗂️ Project/s :
 
 # [Emotify 🎧](https://github.com/krystiaL/Emotify)
