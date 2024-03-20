@@ -21,7 +21,7 @@
   </h3>
   <p>
     I'm currently completing my final year of study for a <i><b>Bachelor's degree in Global Innovation Studies at Toyo University</b></i>, where my focus lies in <i><b>corporate analysis</b></i>. 
-Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resurgence in Tech's Battlefield"</b></i>, I discovered that cloud computing and artificial intelligence played pivotal roles in enhancing the turnaround and sustainability of technology companies. This insight motivated me to enroll in a <i><b>rigorous six-month part-time program in data science and AI at Le Wagon Tokyo</b></i> where I gained several skillsets in <i><b>data analytics, machine learning, deep learning, and MLOps</b></i>; I also gained a deeper understanding of the underlying advantages and fundamental principles linking these two transformative technologies.
+Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resurgence in Tech's Battlefield"</b></i>, I discovered that cloud computing and artificial intelligence played pivotal roles in enhancing the turnaround and sustainability of technology companies. This insight motivated me to enroll in a <i><b>rigorous six-month part-time program in data science and AI at Le Wagon Tokyo</b></i> where I gained several skillsets in <i><b>data analytics, machine learning, deep learning, and MLOps</b></i>.
   </p>
 </div>
 </div>
@@ -53,6 +53,7 @@ Through my research project titled <i><b>"Cloud-Powered Renaissance: IBM's Resur
 ![Hyperopt](https://img.shields.io/badge/Hyperopt-Hyperparameter%20optimization-3399ff?style=flat&logo=hyperopt&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-3399ff?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-3399ff?style=flat&logo=keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-Deep%20Learning-3399ff?style=flat&logo=pytorch&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Deep%20Learning-3399ff?style=flat&logo=mediapipe&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Deep%20Learning-3399ff?style=flat&logo=hugging%20face&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-3bb300?style=flat&logo=docker&logoColor=white)
